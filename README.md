@@ -5,7 +5,7 @@ A retro, pixel-art-themed productivity dashboard to help you focus and get thing
 **Screenshots**
 <img width="1619" height="892" alt="image" src="https://github.com/user-attachments/assets/cca2362b-d007-4887-877d-dbaa11007ec2" />
 <img width="784" height="1037" alt="image" src="https://github.com/user-attachments/assets/4558e2c4-d97a-4d0c-8c15-5c1fa5ce004f" />
-![Uploading image.png…]()
+<img width="738" height="567" alt="image" src="https://github.com/user-attachments/assets/33e3b5e7-fac9-4da7-9e34-60c25784d47c" />
 
 ---
 

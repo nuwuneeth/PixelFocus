@@ -1,10 +1,11 @@
-# Pixel Focus OS 🕹️
+# Pixel Focus OS
 
 A retro, pixel-art-themed productivity dashboard to help you focus and get things done. This is a standalone desktop application built with Electron.
 
-!
+**Screenshots**
 <img width="1619" height="892" alt="image" src="https://github.com/user-attachments/assets/cca2362b-d007-4887-877d-dbaa11007ec2" />
 <img width="784" height="1037" alt="image" src="https://github.com/user-attachments/assets/4558e2c4-d97a-4d0c-8c15-5c1fa5ce004f" />
+![Uploading image.png…]()
 
 ---
 

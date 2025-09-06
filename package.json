@@ -1,0 +1,14 @@
+{
+  "name": "pixel-focus-desktop-app",
+  "version": "1.0.0",
+  "description": "A standalone desktop version of the Pixel Focus OS.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}

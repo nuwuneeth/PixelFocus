@@ -41,7 +41,7 @@ This application has a simple but effective architecture that combines native de
 
 * **Styling:** Utility-first styling is provided by **Tailwind CSS**, which is configured and executed in the browser through its CDN script.
 
-* **Data Persistence:** All user data—including tasks, goals, progress, and settings—is saved to the browser's `localStorage`. This is managed by a custom React hook (`useLocalStorage`), ensuring that your information persists even after you close and reopen the application.
+* **Data Persistence:** All user data: including tasks, goals, progress, and settings: is saved to the browser's `localStorage`. This is managed by a custom React hook (`useLocalStorage`), ensuring that your information persists even after you close and reopen the application.
 
 ---
 

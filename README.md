@@ -58,7 +58,7 @@ You need to have **Node.js** and **npm** (Node Package Manager) installed on you
 1.  **Clone the repo**
 2.  **Navigate to the project directory**
     ```sh
-    cd pixel-focus-desktop-app
+    cd (whatever your directory is, for this repo)
     ```
 3.  **Install NPM packages**
     ```sh
